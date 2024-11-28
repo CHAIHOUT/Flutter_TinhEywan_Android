@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235326284981",
+    "project_id": "tinheywan-flutter-d32e4",
+    "storage_bucket": "tinheywan-flutter-d32e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235326284981:android:7edf9b5212be30fab34afc",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdICwfo8Ek6-RvYpuQas269nCkRs_Mzj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
